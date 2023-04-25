@@ -1,7 +1,6 @@
 <template>
   <div class="mainpage">
     <div class="sidebar">
-      <h1>Company Lists</h1>
       <router-link class="link" to="/mainPage">supliers</router-link>
       <router-link class="link" to="/clients">clients</router-link>
     </div>
